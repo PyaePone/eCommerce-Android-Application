@@ -1,0 +1,84 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">COS 209 Final Project FurniVibe</string>
+    <string name="welcome">Welcome to <font color="yellow">FurniVibe</font>!</string>
+    <string name="below">Support small creators while \n Shopping your favorite pieces of furniture!</string>
+    <string name="login" tools:ignore="StringEscaping"> Don\'t Have an Account? </string>
+    <string-array name="banner_image_names">
+        <item>promo</item>
+        <item>promo2</item>
+    </string-array>
+    <string-array name="image_names">
+        <item>product1</item>
+        <item>product2</item>
+        <item>product3</item>
+        <item>product4</item>
+        <item>product5</item>
+        <item>product6</item>
+        <item>product_7</item>
+        <item>product8</item>
+        <item>product9</item>
+        <item>product10</item>
+        <item>product11</item>
+        <item>product12</item>
+        <item>product13</item>
+        <item>product14</item>
+        <item>product15</item>
+        <item>product16</item>
+        <item>product17</item>
+        <item>product18</item>
+    </string-array>
+    <string-array name="types">
+        <item>Wardrobe</item>
+        <item>Sofa</item>
+        <item>Table and chair Set</item>
+        <item>Cabinet</item>
+        <item>Armchair</item>
+        <item>Desk</item>
+        <item>Table</item>
+        <item>Bed-frame</item>
+        <item>Sofa</item>
+        <item>Cabinet</item>
+        <item>Desk</item>
+        <item>Shelf</item>
+        <item>Table</item>
+        <item>Chair</item>
+        <item>Cabinet</item>
+        <item>Chair</item>
+        <item>Table and chair Set</item>
+        <item>Deckchair</item>
+    </string-array>
+    <string-array name="category_image_names">
+        <item>office</item>
+        <item>school</item>
+        <item>iconkitchen</item>
+        <item>livingroom</item>
+        <item>bedroom</item>
+    </string-array>
+    <string-array name="category_text">
+        <item>Office</item>
+        <item>School</item>
+        <item>Kitchen</item>
+        <item>Living-room</item>
+        <item>Bedroom</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>Open Wardrobe with 3 Drawers 70cm W * 199cm H in Wood Color Dark Grey</item>
+        <item>2 Seated Sofa 149cm W * 109cm H Grey</item>
+        <item>4 Seater Dining Table set in Wood</item>
+        <item>Small Office Cabinet in Wood</item>
+        <item>Single Armchair 80cm W * 81cm H in Leather</item>
+        <item>Office Desk 109cm W * 70cm H</item>
+        <item>Mahogany Round Table with 4 Drawers Wood 60cm W * 67cm H</item>
+        <item>Twin Size Wooden Bed-frame</item>
+        <item>Leather 3 Seated Sofa 179cm W * 97cm H</item>
+        <item>White Kitchen Pantry Cabinet Cupboard with 4 Doors and 1 Drawer 74.30cm W * 171cm H</item>
+        <item>Student Desk Blue Chair Wooden Desk pair 76cm W * 100cm H</item>
+        <item>Full Vision Glass Shelf Wooden Base 152cm W * 133cm H</item>
+        <item>Solid Sheesham Wood Bedside End Table with Drawer 48cm W * 55cm H</item>
+        <item>Dining Chair Replacement Cushion 35cm W * 66cm H</item>
+        <item>Wood Tower Display Cabinet 80cm W * 199cm H</item>
+        <item>Easy Lounge Chair Dark Brown 60cm W * 75cm H</item>
+        <item>Wooden Table and 4 Pastel Colored Chairs for Kids</item>
+        <item>Standard Deckchair Printed Cotton 40cm W * 130cm H</item>
+    </string-array>
+</resources>
